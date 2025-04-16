@@ -61,7 +61,7 @@ const LoginPage = () => {
           <div className="text-center">
             <div className="flex justify-center">
               <Image
-                src="/alumni-logo.png"
+                src="/alumniforSignup-logo.png"
                 alt="DSSC Logo"
                 width={60}
                 height={60}

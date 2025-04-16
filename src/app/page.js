@@ -17,7 +17,7 @@ function Startuppage() {
         {/* Logo and Title */}
         <div className="flex flex-col sm:flex-row items-center gap-4 sm:gap-8 mb-8">
           <Image
-            src="/alumni-logo.png"
+            src="/alumniforSignup-logo.png"
             alt="DSSC Alumni Logo"
             width={140}
             height={140}
