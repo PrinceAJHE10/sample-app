@@ -1274,7 +1274,7 @@ function userdashboard() {
       } ${themeClass}`}>
         <div className={`flex items-center gap-3 p-3 border-b ${isCollapsed ? 'justify-center' : ''}`}>
           <NextImage
-            src="/dssc-alumni-logo.png"
+            src="/alumniforSignup-logo.png"
             alt="DSSC Alumni Logo"
             width={40}
             height={40}
