@@ -64,7 +64,7 @@ function SignUpPage() {
       <div 
         className="absolute inset-0 bg-cover bg-center z-0"
         style={{
-          backgroundImage: "url('/background2.png')", // Using the same background as login page
+          backgroundImage: "url('/Background2.png')", // Using the same background as login page
         }}
       />
       
